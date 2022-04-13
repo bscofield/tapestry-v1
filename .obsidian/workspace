@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "ecbd5c5790ab8d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e4a8f38ccc0cb93",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-04-13.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "62808e8703909461",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "27d21dd47a0f28d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87ae2429d77d8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e9d244357ae05d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb35d4d8d551fd02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d3e99fca342f45bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e065b2776d43a16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae2592fa1ca6413e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "62808e8703909461",
+  "lastOpenFiles": [
+    "README.md",
+    "people/Robert Pattinson.md",
+    "notes/20220413064544.md",
+    "daily/2022-04-13.md",
+    "daily/2022-04-12.md",
+    "notes/20220412214502.md",
+    "people/Sherlock Holmes.md",
+    "notes/20220413063908.md",
+    "_templates/_daily.md",
+    "topics/film.md"
+  ]
+}
