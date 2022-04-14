@@ -8,12 +8,8 @@
         "type": "leaf",
         "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "daily/2022-04-13.md",
-            "mode": "preview",
-            "source": false
-          },
+          "type": "empty",
+          "state": {},
           "pinned": true
         }
       },
@@ -23,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "daily/2022-04-13.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "daily/2022-04-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +99,15 @@
   },
   "active": "62808e8703909461",
   "lastOpenFiles": [
-    "README.md",
-    "people/Robert Pattinson.md",
-    "notes/20220413064544.md",
     "daily/2022-04-13.md",
     "daily/2022-04-12.md",
+    "topics/balloons.md",
+    "notes/20220413225931.md",
+    "people/Robert Pattinson.md",
+    "people/Bruce Wayne.md",
     "notes/20220412214502.md",
-    "people/Sherlock Holmes.md",
-    "notes/20220413063908.md",
-    "_templates/_daily.md",
-    "topics/film.md"
+    "README.md",
+    "notes/20220413064544.md",
+    "people/Sherlock Holmes.md"
   ]
 }

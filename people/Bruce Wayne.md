@@ -1,4 +1,4 @@
-The world's greatest detective?
+Fictional
 
 ---
 
